@@ -8,6 +8,7 @@ My Awesome Resources
   - [Packages](#packages-nodejs)
   - [Articles](#articles-nodejs)
 - [Front-end](#front-end)
+  - [Articles](#articles-frontend)
 
 
 
@@ -28,6 +29,6 @@ My Awesome Resources
 
 ## Front-end
 
-### Articles
+### Articles [frontend]
 
 - [Building Microfrontends](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
