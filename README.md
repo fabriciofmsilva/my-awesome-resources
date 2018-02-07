@@ -18,8 +18,14 @@ My Awesome Resources
 
 #### Packages [nodejs]
 
+- [babel](https://babeljs.io/) - JavaScript Compiler.
+- [express](http://expressjs.com/) - Web Framework.
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy.
+- [sequelize](https://sequelize.readthedocs.io/) - ORM.
+- [socket.io](https://socket.io/) - Featuring the fastest and most reliable real-time engine.
+- [webpack](https://webpack.github.io/) - Module Bundler
+
 
 #### Articles [nodejs]
 
@@ -28,6 +34,11 @@ My Awesome Resources
 
 
 ## Front-end
+
+### Libs / Frameworks
+
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [Redux](https://redux.js.org/) - Redux is a predictable state container for JavaScript apps.
 
 ### Articles [frontend]
 
