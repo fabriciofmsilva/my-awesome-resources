@@ -4,9 +4,15 @@ My Awesome Resources
 ## Contents
 
 - [NodeJS](#nodejs)
+  - [Packages](#packages-nodejs)
   - [Articles](#articles-nodejs)
 
 ## NodeJS
+
+### Packages [nodejs]
+
+- [express-gateway](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway.
+- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy.
 
 ### Articles [nodejs]
 
